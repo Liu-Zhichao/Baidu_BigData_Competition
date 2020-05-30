@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee91a95d-b5a4-418b-a6fd-5cb9e009ce65" name="Default Changelist" comment="" />
+    <list default="true" id="ee91a95d-b5a4-418b-a6fd-5cb9e009ce65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cVo2EMuYQ5NSoEWO1zipH8UY9l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,10 +54,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="693" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590632814870">
+    <state x="424" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590808861817">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
-    <state x="693" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1011@0.23.1920.1011" timestamp="1590632814870" />
+    <state x="424" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1011@0.23.1920.1011" timestamp="1590808861817" />
+    <state x="693" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590809069630">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="693" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1011@0.23.1920.1011" timestamp="1590809069630" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1590630155149">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
